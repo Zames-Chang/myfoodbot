@@ -8,7 +8,7 @@ import numpy as np
 pp = pprint.PrettyPrinter(indent=4)
 
 
-PAGE_ACCESS_TOKEN = 'EAAbHXRREfRsBAIRpFY5OZBYIZCpaMk7tB8TLmQfxGlbc2ZAZAaiok2bccTkJz7NEG0dHJBfnSa7KefD1p1q1qBBcG2efyKIHhXjCZBoSaYlEAVKmsqf91z9oZAl6KttPJeRj2HjuSkhUEKhbJYPyi2xhhSseUhJUk3JNsxMoDrfLKVAZCNVgh5T'
+PAGE_ACCESS_TOKEN = ''
 
 bot = Bot(PAGE_ACCESS_TOKEN)
 app = Flask(__name__)
